@@ -5,11 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <BaseOutputPath>C:\Users\califrangis\source\repos\rsca-Scheduling</BaseOutputPath>
+    <BaseOutputPath></BaseOutputPath>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Include="Program.cs" />
-  </ItemGroup>
 
 </Project>
